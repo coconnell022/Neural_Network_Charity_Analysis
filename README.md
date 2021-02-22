@@ -36,30 +36,38 @@ What steps did you take to try and increase model performance?
 
 1. **Original Model** 
     - Model Layout:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/Original%20Layout.png?raw=true)
 
     - Evaluation Results:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/Original%20Results.png?raw=true)
 
 2. **Optimization Attempt 1: Adding an additional hidden layer**
     - Model Layout:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/1%20Layout.png?raw=true)
 
     - Evaluation Results:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/1%20Results.png?raw=true)
 
 3. **Optimization Attempt 2: Adding more neurons in hidden layers**
     - Model Layout:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/2%20Layout.png?raw=true)
 
     - Evaluation Results:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/2%20Results.png?raw=true)
 
 4. **Optimization Attempt 3: Changing the activation function of hidden layers**
     - Model Layout:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/3%20Layout.png?raw=true)
 
     - Evaluation Results:
+    
     ![alt text](https://github.com/coconnell022/Neural_Network_Charity_Analysis/blob/main/Images/3%20Results.png?raw=true)
 
 
